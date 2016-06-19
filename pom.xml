@@ -35,11 +35,12 @@
 					</execution>
 				</executions>                       
 				<configuration>
-					<projectFile>D:\soapui\Getting-Started-soapui-project.xml</projectFile>
+					<projectFile>src/test/soapui/Getting-Started-soapui-project.xml</projectFile>
 					<testSuite>TestSuite</testSuite>            
 					<outputFolder>${project.build.directory}/surefire-reports</outputFolder>
 					<junitReport>true</junitReport>
 					<printReport>true</printReport>
+					<reportFormat>html</reportFormat>
 					<projectProperties>
 					<projectProperty>NameInsured=KAOLA</projectProperty>
 					</projectProperties>
