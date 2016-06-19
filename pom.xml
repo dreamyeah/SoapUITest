@@ -44,7 +44,7 @@
 					<projectProperties>
 					<projectProperty>NameInsured=KAOLA</projectProperty>
 					</projectProperties>
-					<settingsFile>D:\soapui\SoupUI-timeOut-Setting.xml</settingsFile>
+					<settingsFile>src/test/soapui/SoupUI-timeOut-Setting.xml</settingsFile>
 				</configuration>
 			</plugin>   
 		</plugins>
