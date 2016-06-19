@@ -7,7 +7,7 @@
    <artifactId>KAOLATest</artifactId>
    <version>1.0-SNAPSHOT</version>
    <packaging>jar</packaging>
-   <description>KAOLA QA TEST</description>  
+   <description>KAOLA Auto Test</description>  
  
   <pluginRepositories>
   
